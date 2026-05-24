@@ -1,22 +1,23 @@
-# install-linux-on-a-bootable-USB-es-
-Hola Voy a Contar cómo pueden instalar Linux con un USB sin perder nada 
-Lo primero es Tener preparado Un USB 
-paso q descargar la distro que qieres ej ubuntu o mint 
-uuntu ubuntu.com
-mint https://linuxmint.com/
-arch https://archlinux.org/
-omarchy https://omarchy.org/
-fedora https://fedoraproject.org/es/
+#Hola. Aquí te explico cómo instalar Linux utilizando un USB sin perder tu información actual.
 
+Lo primero: Necesitas tener preparado un USB.
 
+Paso 1: Descarga la distribución (distro) Elige y descarga la versión de Linux que prefieras:
 
-paso 2
-descargas rufus https://rufus.ie/es/
-abrir rufus piner el USB y la ISO en el lugar correcto 
+Ubuntu: ubuntu.com
+Linux Mint: linuxmint.com
+Arch Linux: archlinux.org
+Omarchy: omarchy.org
+Fedora: fedoraproject.org/es/
+Paso 2: Crea el USB booteable
 
+Descarga Rufus desde: rufus.ie/es/
+Abre el programa.
+Selecciona tu USB y la ISO que descargaste en los lugares correspondientes.
+Inicia el proceso de creación (generalmente con el botón "Empezar").
+Paso 3: Inicia desde el USB
 
-paso 3 
-reinicia el equipo y acsede a la BIOS en el menu de de arranque pon tu USB arriba de el de windows 
-
-paso 4 
-cuando termines eso instala la distro que qieras 
+Reinicia tu equipo.
+Accede a la BIOS o al menú de arranque (Boot Menu) pulsando la tecla correspondiente al encender (suele ser F12, F2, Esc o Supr, depende de tu marca).
+En el menú de arranque, coloca tu USB por encima del disco de Windows.
+Paso 4: Instalación Una vez que el sistema arranque desde el USB, sigue las instrucciones en pantalla para instalar la distribución que hayas elegido.
